@@ -52,7 +52,6 @@ This Power BI dashboard provides a comprehensive financial performance analysis 
 - **Power BI Desktop & Service**
 - **DAX** for custom calculations
 - **Power Query** for data transformation
-- **CSV/Excel data source (presumed based on context)**
 
 ---
 
